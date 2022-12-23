@@ -5,3 +5,4 @@ docs/.yalc/
 docs/yalc.lock
 stats.json
 report.html
+.idea/
